@@ -1,0 +1,2 @@
+# nickel
+Provides wallet functionalities
